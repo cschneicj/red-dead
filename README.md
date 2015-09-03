@@ -1,5 +1,3 @@
 # red-dead
-Tutorial Repository
-This is an edit into the readme file
-DO NOT PASS GO
-DO NOT COLLECT $200
+Tutorial Repository;
+#HOW DO YOU MAKE SPACES BETWEEN TEXT?
